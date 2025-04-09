@@ -1,0 +1,50 @@
+.principal {
+    background-color: #CCCCCC;
+    padding: 30px;
+}
+
+
+img {
+    width: 100%;
+}
+
+.principal h2 {
+    text-align: center;
+}
+
+.principal p {
+    text-align: center;
+    font-size: 20px;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+.itens  {
+    background-color: white;
+    padding: 20px;
+}
+
+.itens h3 {
+    text-align: center;
+}
+
+.itens ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.itens li {
+    font-style: italic;
+}
+
+.itens img {
+    width: 50%;
+}
